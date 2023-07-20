@@ -1,5 +1,5 @@
 
-# Welcome to Stable Diffusion CDK Python project!
+# Welcome to APIg-Lambda-SagemakerEndpoint Integration project!
 
 This project deploys a Stable diffusion model endpoint using AWS Sagemaker. It also adds a lambda and an API Gateway serve the endpoint.
 
