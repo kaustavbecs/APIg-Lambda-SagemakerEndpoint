@@ -1,0 +1,15 @@
+
+!jest.config.js
+*.d.ts
+node_modules
+.DS_Store
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+.env
+module2/sagemaker/.venv/
+.venv/
+*.pyc
+*.tmp.out
+*.tmp.payload
